@@ -1,2 +1,0 @@
-# Python.exe
-Programmers python
